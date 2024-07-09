@@ -1,0 +1,36 @@
+%----------------------------------------------------------------
+% DO NOT MODIFY THE FILE NAME!
+%----------------------------------------------------------------
+%
+%----------------------------------------------------------------
+% This algorithm computes the Newton coefficients of the
+% interpolation polynomial for given data as indicated in 
+% Remark 5.7.
+%----------------------------------------------------------------
+%
+%--INPUTS--------------------------------------------------------
+%
+% x          -     row vector of pairwise distinct real numbers
+% y          -     row vector of real numbers
+%
+%--OUTPUT--------------------------------------------------------
+%
+% c          -     column vector with Newton coefficients of 
+%                  interpolation polynomial for data (x,y)
+%
+%----------------------------------------------------------------
+
+%----------------------------------------------------------------
+% DO NOT MODIFY THE FUNCTION DEFINITION!
+%----------------------------------------------------------------
+
+function c=myNewtonCoefficients(x,y)
+    n = lengt
+    A = zeros(lengthy)
+    
+
+
+%----------------------------------------------------------------
+% WRITE YOUR CODE BELOW THIS LINE!
+%----------------------------------------------------------------
+ 
